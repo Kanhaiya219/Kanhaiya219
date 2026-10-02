@@ -56,7 +56,7 @@ A Python and Selenium based automation project using Google Cloud.
 
 ## 📄 CV
 
-📥 [Download My CV](./Krishan_Kanhaiya_CV.pdf)
+📥 [Download My CV](https://drive.google.com/file/d/1Zj3hIEm3oB5GjR8tZgLucayrpusDNDjb/view?usp=sharing)
 
 ---
 
